@@ -5,7 +5,7 @@ const WelcomeScreen = () => {
     return (
         <View>
             <Text>
-                welcome
+                welcome Screen
             </Text>
         </View>
     );
